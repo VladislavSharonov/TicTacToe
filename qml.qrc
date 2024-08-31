@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>themes/theme.qml</file>
+        <file>themes/qmldir</file>
+        <file>resources/sprites/FieldSeparator.svg</file>
+        <file>resources/sprites/O.svg</file>
+        <file>resources/sprites/X.svg</file>
+        <file>resources/sprites/Lines.svg</file>
+        <file>resources/fonts/Century Gothic/centurygothic_bold.ttf</file>
+        <file>resources/sprites/Column.svg</file>
+        <file>resources/sprites/Diagonal.svg</file>
+        <file>resources/sprites/Row.svg</file>
+    </qresource>
+</RCC>
